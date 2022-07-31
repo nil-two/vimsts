@@ -6,9 +6,9 @@ Vimのキーバインドで反復横跳びするゲーム。
 ダウンロード
 ------------
 
-- [Windows版](https://github.com/kusabashira/vimsts/releases/download/v1.1.0/vimsts_windows.zip)
-- [Mac版](https://github.com/kusabashira/vimsts/releases/download/v1.1.0/vimsts_mac.zip)
-- [Linux版](https://github.com/kusabashira/vimsts/releases/download/v1.1.0/vimsts_linux.zip)
+- [Windows版](https://github.com/nil2nekoni/vimsts/releases/download/v1.1.0/vimsts_windows.zip)
+- [Mac版](https://github.com/nil2nekoni/vimsts/releases/download/v1.1.0/vimsts_mac.zip)
+- [Linux版](https://github.com/nil2nekoni/vimsts/releases/download/v1.1.0/vimsts_linux.zip)
 
 Mac版は動作未検証です。
 また、Linux版は実行ファイルに権限が付与されていないので、chmodを使って実行権限を付与する必要があります。
